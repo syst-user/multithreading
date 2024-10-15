@@ -6,7 +6,6 @@ import java.util.Queue;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
         Queue<Person> queue = new LinkedList<>();
         int numWindows = 3;
         Thread[] windows = new Thread[numWindows];
