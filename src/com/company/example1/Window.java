@@ -1,4 +1,4 @@
-package com.company;
+package com.company.example1;
 
 import java.util.Queue;
 import java.util.Random;

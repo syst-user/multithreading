@@ -1,4 +1,4 @@
-package com.company;
+package com.company.example1;
 
 public class Person {
 
